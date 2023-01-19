@@ -8,6 +8,16 @@
     ],
     "android": {
       "package": "com.aelaui.CFCSystem"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "89b0267e-ad2e-4f9f-a5a9-632e0526be57"
+      }
+    },
+    "runtimeVersion": "1.0.0",
+    "updates": {
+      "url": "https://u.expo.dev/89b0267e-ad2e-4f9f-a5a9-632e0526be57"
+    },
+    "ios": {}
   }
 }
