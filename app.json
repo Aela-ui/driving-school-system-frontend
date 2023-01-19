@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "CFCSystem",
+    "slug": "CFCSystem",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.aelaui.CFCSystem"
+    }
+  }
+}
