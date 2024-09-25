@@ -1,4 +1,4 @@
-# Fornt-end mobile para controle de Autoescola
+# Front-end mobile para controle de Autoescola
 Projeto de Software para Autoescolas.
 
 ## 📖 Descrição
